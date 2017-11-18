@@ -1,0 +1,29 @@
+body {
+    color: #FFAA6A;
+}
+
+#header {
+    padding-left: 140px;
+    padding-bottom: 50px;
+}
+
+.box {
+    /* margin-left: 380px; */
+    border-radius: 5px;
+    height: auto;
+    width: 500px;
+    float: left;
+    padding: 30px;
+    position: relative;
+    background-color: rgba(27, 67, 102, 0.4);
+}
+
+.tmo p {
+    display: inline;
+    font-size: 160%;
+}
+
+.right {
+    float: right;
+    /* padding-left: 40px; */
+}
