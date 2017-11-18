@@ -38,3 +38,17 @@ body {
 .btns {
     margin-left: 175px;
 }
+
+footer p {
+    padding-left: 185px;
+    font-style: italic;
+    color: rgb(41, 22, 9);
+}
+
+footer p a {
+    color: rgb(41, 22, 9);
+}
+
+footer p a:hover {
+    color: rgb(41, 22, 9, 0.7);
+}
